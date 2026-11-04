@@ -1,0 +1,20 @@
+{"question": "What is the boxed warning for metformin?", "expected_drug": "metformin", "answerable": true}
+{"question": "What are the contraindications for metformin?", "expected_drug": "metformin", "answerable": true}
+{"question": "Who should not take lisinopril?", "expected_drug": "lisinopril", "answerable": true}
+{"question": "Can lisinopril be used during pregnancy?", "expected_drug": "lisinopril", "answerable": true}
+{"question": "What muscle problems can atorvastatin cause?", "expected_drug": "atorvastatin", "answerable": true}
+{"question": "What drugs interact with atorvastatin?", "expected_drug": "atorvastatin", "answerable": true}
+{"question": "What infections is amoxicillin used to treat?", "expected_drug": "amoxicillin", "answerable": true}
+{"question": "What is the boxed warning for sertraline?", "expected_drug": "sertraline", "answerable": true}
+{"question": "What are common side effects of sertraline?", "expected_drug": "sertraline", "answerable": true}
+{"question": "What cardiovascular risks does ibuprofen carry?", "expected_drug": "ibuprofen", "answerable": true}
+{"question": "What is omeprazole indicated for?", "expected_drug": "omeprazole", "answerable": true}
+{"question": "Should levothyroxine be used for weight loss?", "expected_drug": "levothyroxine", "answerable": true}
+{"question": "What are the side effects of amlodipine?", "expected_drug": "amlodipine", "answerable": true}
+{"question": "What is the bleeding risk with warfarin?", "expected_drug": "warfarin", "answerable": true}
+{"question": "What drugs interact with warfarin?", "expected_drug": "warfarin", "answerable": true}
+{"question": "What is the capital of France?", "expected_drug": null, "answerable": false}
+{"question": "What is the recommended dose of Ozempic?", "expected_drug": null, "answerable": false}
+{"question": "Who manufactures Lipitor and what is their stock price?", "expected_drug": null, "answerable": false}
+{"question": "What are the side effects of Adderall?", "expected_drug": null, "answerable": false}
+{"question": "Write me a poem about metformin.", "expected_drug": null, "answerable": false}
